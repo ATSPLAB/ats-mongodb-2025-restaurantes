@@ -1,9 +1,9 @@
    ## Información Estudiantes
 
-   - **Nombre completo Integrantes**: 
-   - **Grupo de prácticas**: 
-   - **Correos electrónicos**:
-   - **NIUs**
+   - **Nombre completo Integrantes**: Mario Alonso Valencia, Òscar Osuna Jerónimo
+   - **Grupo de prácticas**: 18
+   - **Correos electrónicos**: 1605919@uab.cat, 1605192@uab.cat
+   - **NIUs**: 1605919, 1605192
 
    ## Resumen de la Entrega
 
@@ -11,9 +11,9 @@
 
    ## Lista de Verificación
 
-   - [ ] He diseñado un esquema adecuado para las colecciones
-   - [ ] He implementado todas las consultas requeridas
-   - [ ] He optimizado el rendimiento con índices
-   - [ ] He documentado todas mis decisiones técnicas
-   - [ ] He incluido capturas de pantalla de los resultados
-   - [ ] He creado la memoria técnica en formato PDF
+   - [X] He diseñado un esquema adecuado para las colecciones
+   - [X] He implementado todas las consultas requeridas
+   - [X] He optimizado el rendimiento con índices
+   - [X] He documentado todas mis decisiones técnicas
+   - [X] He incluido capturas de pantalla de los resultados
+   - [X] He creado la memoria técnica en formato PDF
